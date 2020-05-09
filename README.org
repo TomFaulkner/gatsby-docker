@@ -1,0 +1,8 @@
+* GatsbyJS Dockerfiles and Compose File
+** Usage:
+   - Build the start.Dockerfile and run it like:
+     ~docker run -it [gatsby-start image name] gatsby new [site name] template~
+   - Use compose to docker-compose up in the project directory
+** Credits
+   Compose and Dockerfile from:
+   https://www.stoutlabs.com/blog/2019-02-05-my-docker-setup-gatsby-next/
